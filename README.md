@@ -21,14 +21,14 @@ Serviços AWS Simulados
 
 Estrutura
 cloud-todo-simulator/
-├── index.html # Site principal
-├── style.css # Estilos
-└── README.md # Esta documentação
-
+index.html - Site principal
+style.css - Estilos
+Read.Me
 
 O que aprendi
 - Como funcionam serviços AWS básicos
 - Como simular arquitetura cloud localmente
 - HTML, CSS e JavaScript básicos
 - Versionamento com Git
+
 
