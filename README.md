@@ -5,6 +5,8 @@ Um projeto simples que simula uma aplicação Cloud na AWS.
 O que é isso?
 Um site de lista de tarefas que **demonstra como funcionaria** se estivesse rodando na AWS, mesmo sem usar a AWS de verdade!
 
+Link da página funcional: https://santiagolucas06.github.io/cloud-todo-simulator/
+
 Como usar
 1. Baixe os arquivos
 2. Abra `index.html` no navegador
@@ -30,5 +32,6 @@ O que aprendi
 - Como simular arquitetura cloud localmente
 - HTML, CSS e JavaScript básicos
 - Versionamento com Git
+
 
 
